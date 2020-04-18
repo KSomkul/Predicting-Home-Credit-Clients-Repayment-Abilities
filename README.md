@@ -3,10 +3,9 @@
 ## Project Overview
 the goal is to predict future payment behavior of clients from application, demographic and historical credit behavior data
 
-##Software Used
+## Software Used
 Python (Jupiter Notebook)
 
 ## Data Source
-Kaggle | 
-
+Kaggle
 
