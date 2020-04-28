@@ -1,7 +1,8 @@
 # Predicting-Home-Credit-Clients-Repayment-Abilities
 
 ## Project Overview
-the goal is to predict future payment behavior of clients from application, demographic and historical credit behavior data
+The goal is to predict whether or not an applicant will be able to repay a loan based of their payment behavior and demographic.
+
 
 ## Data
 
